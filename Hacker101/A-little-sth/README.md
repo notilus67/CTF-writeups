@@ -1,6 +1,5 @@
+# A little something to get you started
 Firstly view source of the main page. 
-It's noticeable that there exists a file named "background.png".
-Open it by adding the filename to present url, and the flag will be shown.
 ```
 <!doctype html>
 <html>
@@ -16,3 +15,5 @@ Open it by adding the filename to present url, and the flag will be shown.
 	</body>
 </html>
 ```
+It's noticeable that there exists a file named "background.png".
+Open it by adding the filename to present url, and the flag will be shown.
