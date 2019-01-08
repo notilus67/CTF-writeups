@@ -65,4 +65,4 @@ However, '<' or '>' will not be replaced, so we just need to use another word, l
 ```
 The 4th flag is in the source code.
 
-![6-xss](img/6-xss.png)
+![6-xss](img/7-XSS.png)
